@@ -8,7 +8,7 @@ The source code of the post https://medium.com/@moshfeu/notifications-in-chrome-
 
 Clone the repository and follow the [docs](https://developer.chrome.com/extensions/getstarted)
 
-What should you expect to see?
+### What should you expect to see?
 
 1. The extension icon in the extensions bar
 
