@@ -1,3 +1,7 @@
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/moshfeu.svg?style=social)](https://twitter.com/moshfeu)
+[![Follow me on Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moshfeu/)
+
+
 ## What is the repository?
 
 A very basic Chrome extension that display a notification.
