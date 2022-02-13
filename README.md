@@ -18,8 +18,8 @@ Clone the repository and follow the [docs](https://developer.chrome.com/extensio
 
 <img src="https://user-images.githubusercontent.com/3723951/81202899-e9b24c80-8fcf-11ea-8ae2-7bfe9c09698a.png" alt="extension's icon" />
 
-2. When you go to any website, the "Greet me!" button should e added in the top left corner (unless the site has an element that covers it).
-Click on it will show the notification
+2. When you go to any website, the "Greet me!" button should be added in the top left corner (unless the site has an element that covers it).
+Clicking the button will show the notification
 
 <img src="https://user-images.githubusercontent.com/3723951/81202695-a3f58400-8fcf-11ea-9a21-1c568808b07b.gif" alt="screen record of the notification in action" />
 
