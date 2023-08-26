@@ -10,12 +10,11 @@
     }
   ],
   "background" : {
-    "scripts" : ["js/background.js"],
-    "persistent": false
+    "service_worker" : "js/background.js"
   },
   "permissions": ["notifications"],
-  "browser_action": {
+  "action": {
     "default_icon": "icon.png"
   },
-  "manifest_version": 2
+  "manifest_version": 3
 }
